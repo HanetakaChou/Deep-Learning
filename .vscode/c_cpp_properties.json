@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/local/lib64/python3.9/site-packages/tensorflow/include",
+            ]
+        }
+    ],
+    "version": 4
+}
